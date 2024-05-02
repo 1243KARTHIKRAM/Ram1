@@ -1,0 +1,26 @@
+body{
+    background-image: url("00.jpeg");
+    background-size: cover;
+    
+}
+h1{
+    position: absolute ;
+    width: 200px;
+    height:100px;
+    right: 50%;
+    left: 50%;
+    color: aqua;
+    bottom: 50%;
+    top: 50%;
+}
+div{
+    background-color: rgba(0, 255, 255, 0.201);
+    color: white;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    right: 50%;
+    left: 50%;
+    bottom: 50%;
+    top: 50%;
+}
